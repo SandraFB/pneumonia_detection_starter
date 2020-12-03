@@ -1,4 +1,4 @@
-# pneumonia_detection_starter
+# Content
 
 The sample files where downloaded from [Udacity AI Healthcare Nanodegree Program]<https://github.com/udacity/AIHCND_C2_Starter>
 
